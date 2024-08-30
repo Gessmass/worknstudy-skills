@@ -6,29 +6,29 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'initialisation d'un projet ❌ / ✔️
-- travailler avec des branches ❌ / ✔️
-- faire une PR ❌ / ✔️
-- utiliser git rebase pour faire des commits propres ❌ / ✔️
-- utiliser les gitHub actions ❌ / ✔️
+- l'initialisation d'un projet  ✔️
+- travailler avec des branches  ✔️
+- faire une PR  ✔️
+- utiliser git rebase pour faire des commits propres ✔️
+- utiliser les gitHub actions  ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌ 
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien github](...)
-
-Description :
-
-### Utilisation en production si applicable❌ / ✔️
-
-[lien du projet](...)
+https://github.com/WildCodeSchool/2024-02-wns-bleu-wetransfer
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en production si applicable ✔️
+
+https://github.com/WildCodeSchool/2024-02-wns-bleu-wetransfer
+
+Description :
+
+### Utilisation en environement professionnel  ✔️
 
 Description :
 
@@ -41,7 +41,7 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ❌ 
 
 Description:
 
