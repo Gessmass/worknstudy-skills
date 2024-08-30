@@ -15,17 +15,17 @@
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌
 
-### Utilisation dans un projet ❌ 
+### Utilisation dans un projet ✔️ 
 
 https://github.com/WildCodeSchool/2024-02-wns-bleu-wetransfer
 
 Description :
 
-### Utilisation en production si applicable ❌ 
+### Utilisation en production si applicable ✔️ 
 
-[lien du projet](...)
+https://github.com/WildCodeSchool/2024-02-wns-bleu-wetransfer
 
 Description :
 
