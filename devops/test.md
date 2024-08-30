@@ -6,30 +6,30 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les tests unitaires ❌ / ✔️
-- les mocks ❌ / ✔️
-- les tests d'integration ❌ / ✔️
-- les tests de bout en bout (end to end) ❌ / ✔️
-- le TDD ❌ / ✔️
-- les tests par snapshot ❌ / ✔️
+- les tests unitaires  ✔️
+- les mocks ❌ 
+- les tests d'integration  ✔️
+- les tests de bout en bout (end to end)  ✔️
+- le TDD ❌ 
+- les tests par snapshot ❌ 
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌ 
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien github](...)
-
-Description :
-
-### Utilisation en production si applicable❌ / ✔️
-
-[lien du projet](...)
+https://github.com/WildCodeSchool/2024-02-wns-bleu-wetransfer
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en production si applicable ✔️
+
+https://github.com/WildCodeSchool/2024-02-wns-bleu-wetransfer
+
+Description :
+
+### Utilisation en environement professionnel ❌ 
 
 Description :
 
